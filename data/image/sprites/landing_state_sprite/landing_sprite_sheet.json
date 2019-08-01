@@ -1,0 +1,108 @@
+{"frames": {
+
+"bacteria_01.png":
+{
+	"frame": {"x":1392,"y":143,"w":304,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":304,"h":226},
+	"sourceSize": {"w":304,"h":226}
+},
+"bacteria_02.png":
+{
+	"frame": {"x":482,"y":143,"w":322,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":322,"h":174},
+	"sourceSize": {"w":322,"h":174}
+},
+"bacteria_03.png":
+{
+	"frame": {"x":1008,"y":0,"w":297,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":297,"h":141},
+	"sourceSize": {"w":297,"h":141}
+},
+"bacteria_04.png":
+{
+	"frame": {"x":575,"y":0,"w":297,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":297,"h":107},
+	"sourceSize": {"w":297,"h":107}
+},
+"button.png":
+{
+	"frame": {"x":1305,"y":0,"w":328,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":328,"h":143},
+	"sourceSize": {"w":328,"h":143}
+},
+"button_escape_landing.png":
+{
+	"frame": {"x":186,"y":0,"w":54,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":55},
+	"sourceSize": {"w":54,"h":55}
+},
+"button_play.png":
+{
+	"frame": {"x":804,"y":143,"w":588,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":588,"h":222},
+	"sourceSize": {"w":588,"h":222}
+},
+"icon_loading.png":
+{
+	"frame": {"x":0,"y":143,"w":126,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":147},
+	"sourceSize": {"w":126,"h":147}
+},
+"logo_gameloft_landing.png":
+{
+	"frame": {"x":0,"y":0,"w":186,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":49},
+	"sourceSize": {"w":186,"h":49}
+},
+"logo_hns_men_ultra.png":
+{
+	"frame": {"x":126,"y":143,"w":356,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":164},
+	"sourceSize": {"w":356,"h":164}
+},
+"logo_nou.png":
+{
+	"frame": {"x":872,"y":0,"w":136,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":116},
+	"sourceSize": {"w":136,"h":116}
+},
+"text_play.png":
+{
+	"frame": {"x":240,"y":0,"w":335,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":335,"h":66},
+	"sourceSize": {"w":335,"h":66}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "landing_sprite_sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1696,"h":369},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c9d3d4261e7a50fefbd880ca225884a3:dcf372d41abb0e6b83dd95e949a303e6:6fda88b1c7794b5199e5624f41320106$"
+}
+}

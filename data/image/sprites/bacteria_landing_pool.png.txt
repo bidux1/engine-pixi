@@ -1,0 +1,1 @@
+bacteria_landing_pool_01.png.png 12 2, bacteria_landing_pool_02.png.png 344 0, bacteria_landing_pool_03.png.png 653 213, bacteria_landing_pool_04.png.png 702 1, bacteria_landing_pool_05.png.png 999 13.

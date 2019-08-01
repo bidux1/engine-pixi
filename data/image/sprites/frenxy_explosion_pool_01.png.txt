@@ -1,0 +1,1 @@
+frenxy_explosion_pool_01_01.png.png 76 0, frenxy_explosion_pool_01_02.png.png 0 37, frenxy_explosion_pool_01_03.png.png 105 24, frenxy_explosion_pool_01_04.png.png 262 10, frenxy_explosion_pool_01_05.png.png 440 10, frenxy_explosion_pool_01_06.png.png 76 0, frenxy_explosion_pool_01_07.png.png 0 37, frenxy_explosion_pool_01_08.png.png 105 24.

@@ -1,0 +1,1 @@
+booster_pool_01.png.png 6 7, booster_pool_02.png.png 91 6, booster_pool_03.png.png 176 6.
